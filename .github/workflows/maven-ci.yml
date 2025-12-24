@@ -82,5 +82,5 @@ jobs:
     
     # Só passo o que muda de um projeto pro outro (Nome e Chave)
     with:
-      sonar-project-key: mancinidsb_novo-projeto-java
+      sonar-project-key: mancini-labs_teste-java2
       docker-image-name: novo-projeto-java 
